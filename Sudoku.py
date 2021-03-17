@@ -1,7 +1,6 @@
 import random
 import numpy as np
 
-
 class Sudoku:
     def __init__(self):
         # here the puzzle is empty, each group of three rows is generated within its own array referred to from here on as a "superrow"
@@ -70,3 +69,5 @@ class Sudoku:
 
 s = Sudoku()
 s.print()
+
+# test1
