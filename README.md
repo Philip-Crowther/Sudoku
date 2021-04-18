@@ -1,2 +1,2 @@
-# Sudoku
-Building a sudoku game
+# sudoku
+
